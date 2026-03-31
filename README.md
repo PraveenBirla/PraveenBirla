@@ -15,7 +15,9 @@
 ⚡ Fun fact: I love building real-world projects<br>
 
 
- # 💻 Tech Stack:
+ # 💻 Tech Stack: 
+
+  Backend :- <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/9e5ddcb5-619e-4b71-9bde-ded91d22d228" />
  <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/9e5ddcb5-619e-4b71-9bde-ded91d22d228" />
  <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/c482300f-3f31-4ddf-a253-5b6dbe014c89" />
  <img width="71" height="28" alt="image" src="https://github.com/user-attachments/assets/66c6689f-707a-487c-a4e9-c53600879b52" />
