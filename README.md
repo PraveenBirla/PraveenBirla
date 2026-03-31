@@ -1,4 +1,4 @@
-![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c](https://github.com/user-attachments/assets/0ed28d07-23c1-4374-8c90-bf5f52429994) # Hi 👋, I'm Praveen Birla<br>
+ # Hi 👋, I'm Praveen Birla<br>
 
 🎓 3rd Year CSE Student at Samrat Ashok Technological Institute<br>
 💻 Java Backend Developer | Spring Boot | React<br>
@@ -26,81 +26,8 @@
  <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/da8ac71a-8f0b-4974-8482-3a86c94c37cb" />
 
  # ✍️ Random Dev Quote
-![U
-  <svg width="600" height="auto" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        
-  <defs>
-    <style type="text/css">
-      <![CDATA[
-          @font-face {
-              font-family: 'Poppins';
-              font-style: normal;
-              font-weight: 400;
-              src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
-              unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-          }
-      ]]>
-    </style>
-  </defs>
-
-        <style>
-          * {
-            padding: 0;
-            margin: 0;
-            box-sizing: border-box;
-          }
-          .container {
-            font-family: Poppins, Arial, Helvetica, sans-serif;
-            padding: 20px;
-            width: 600px;
-            border-radius: 10px;
-          }
-          .container h3 {
-            font-size: 19px;
-            margin-bottom: 5px;
-            font-weight: 500;
-            font-style: oblique;
-          }
-          .container h3::before {
-            content: open-quote;
-            font-size: 25px;
-          }
-          .container h3::after {
-            content: close-quote;
-            vertical-align: sub;
-            font-size: 25px;
-          }
-          .container p {
-            font-style: italic;
-            padding: 5px;
-            text-align: right;
-          }
-          
-      .container {
-        background-color: #141321;
-        border: 1px solid rgba(0, 0, 0, 0.2);
-      }
-      .container h3 {
-        color: #a9fef7;
-      }
-      .container h3::before, .container h3::after {
-        color: #f8d847;
-      }
-      .container p {
-        color: #fe428e;
-      }
-    
-        </style>
-        <div class="container">
-          <h3>The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.</h3>
-          <p>- Manuel Blum</p>
-        </div>
-      </div>
-    </foreignObject>
-  </svg>
-  ploading 68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c.svg…]()
+ 
+    ![68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c](https://github.com/user-attachments/assets/0ed28d07-23c1-4374-8c90-bf5f52429994)
 
 
 
