@@ -1,4 +1,4 @@
-#Hi 👋, I'm Praveen Birla<br>
+# Hi 👋, I'm Praveen Birla<br>
 
 🎓 3rd Year CSE Student at Samrat Ashok Technological Institute<br>
 💻 Java Backend Developer | Spring Boot | React<br>
@@ -6,7 +6,7 @@
 📍 India<br>
 
 
-#🚀 About Me<br>
+# 🚀 About Me<br>
 
 🔭 I’m currently working on TNP Management System<br>
 🌱 I’m learning Advanced Backend (Spring Boot, JWT, APIs)<br>
