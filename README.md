@@ -12,7 +12,7 @@ Hi 👋, I'm Praveen Birla
 👯 I’m looking for Internship Opportunities (Java Backend)
 💬 Ask me about Java, Spring Boot, React
 ⚡ Fun fact: I love building real-world projects 
-
+ 
  
 
 
