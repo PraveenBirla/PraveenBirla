@@ -28,10 +28,11 @@
   
   ---
 
-<p align="center">
-  <i> ## "A good programmer is someone who looks both ways before crossing a one-way street."</i><br>
-  — <b>Doug Linder</b>
-</p>
+<h2 align="center">
+  "A good programmer is someone who looks both ways before crossing a one-way street."
+</h2>
+<p align="center"><b>— Doug Linder</b></p>
+
 
 ---
 
