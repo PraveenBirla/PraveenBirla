@@ -16,7 +16,8 @@
 
 
  # 💻 Tech Stack:
- 
+ <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/9e5ddcb5-619e-4b71-9bde-ded91d22d228" />
+
 
  
  
