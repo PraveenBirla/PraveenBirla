@@ -25,11 +25,11 @@
  <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/f0caef1e-b50d-46c9-bbf6-f575da82526a" />
  <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/da8ac71a-8f0b-4974-8482-3a86c94c37cb" />
 
- ### ✍️ Random Dev Quote
+  
   ---
 
 <p align="center">
-  <i>"A good programmer is someone who looks both ways before crossing a one-way street."</i><br>
+  <i> ## "A good programmer is someone who looks both ways before crossing a one-way street."</i><br>
   — <b>Doug Linder</b>
 </p>
 
