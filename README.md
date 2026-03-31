@@ -26,7 +26,15 @@
  <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/da8ac71a-8f0b-4974-8482-3a86c94c37cb" />
 
  ### ✍️ Random Dev Quote
-  ![Quote](https://img.shields.io/badge/💡_Good_Programmer-Looks_Both_Ways-blue?style=for-the-badge)
+  ---
+
+<p align="center">
+  <i>"A good programmer is someone who looks both ways before crossing a one-way street."</i><br>
+  — <b>Doug Linder</b>
+</p>
+
+---
+
 
 
 
